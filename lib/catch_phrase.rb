@@ -1,4 +1,4 @@
-phrase = "catch phrase"
-def phrase
-  puts phrase
+
+def catch_phrase
+  puts "catch phrase"
 end
